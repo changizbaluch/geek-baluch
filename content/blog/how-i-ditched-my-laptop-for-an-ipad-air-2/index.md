@@ -13,4 +13,8 @@ What I use my computer for is not limited – but mostly – I watch Youtube vi
 
 Apple has been bragging a lot about the power of its iPad Air 2’s A8 X chip. So, I committed to using the iPad for few weeks without using my Macbook. It has been four weeks since I have been using solely my iPad Air 2. Surprisingly, I have not been a bit disappointed so far, and I have been able to get my all tasks done on the iPad without any problem. However, to get fully productive, I needed to download some third-party apps. I think apps a
 
+![Geekaluch](geekbaluch-transparent.png "Logo")
+
+
+
 <!--EndFragment-->
