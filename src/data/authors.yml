@@ -1,0 +1,9 @@
+- id: geekbaluch # unique username for the author. This will be used in the URL for the author page
+  name: Changiz Baluch # Name of the author
+  bio: # Bio of the author
+  location: Location # Location of the author
+  website: https://authorswebsite.com # Website of the author
+  twitter:
+  facebook:
+  profileImage: https://avatars0.githubusercontent.com/u/changizbaluch # URL containing the author profile Image
+  coverImage: # Cover Image to show in authors page
